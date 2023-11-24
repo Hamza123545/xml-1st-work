@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding ='UTF-8' ?> 
+<car-list> 
+<car  id="369"> 
+ 
+<name>Toyota corrola</name>
+<model>2019</model>
+<car-papers>All document clear </car-papers>
+<condition>Used Like new 10/10</condition>
+</car>
+<car  id="456"> 
+ 
+    <name>Gli</name>
+    <model>2020</model>
+    <car-papers>All document clear </car-papers>
+    <condition>Used Like new 10/10</condition>
+    </car>
+    <car  id="563"> 
+ 
+        <name>Xli</name>
+        <model>2023</model>
+        <car-papers>All document clear </car-papers>
+        <condition>Used Like new 10/10</condition>
+        </car>
+        <car  id="562"> 
+ 
+            <name>Honda</name>
+            <model>2022</model>
+            <car-papers>All document clear </car-papers>
+            <condition>Used Like new 10/10</condition>
+            </car>
+
+<car  id="368"> 
+ 
+<name>Toyota corrola</name>
+<model>2019</model>
+<car-papers>All document clear </car-papers>
+<condition>Used Like new 10/10</condition>
+</car>
+<car  id="452"> 
+ 
+    <name>Gli</name>
+    <model>2020</model>
+    <car-papers>All document clear </car-papers>
+    <condition>Used Like new 10/10</condition>
+    </car>
+    <car  id="598"> 
+ 
+        <name>Xli</name>
+        <model>2023</model>
+        <car-papers>All document clear </car-papers>
+        <condition>Used Like new 10/10</condition>
+        </car>
+        <car  id="56456"> 
+ 
+            <name>Honda</name>
+            <model>2022</model>
+            <car-papers>All document clear </car-papers>
+            <condition>Used Like new 10/10</condition>
+            </car>
+
+
+
+</car-list>
