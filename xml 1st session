@@ -1,1 +1,34 @@
+<?xml version='1.0' encoding ='UTF-8' ?>
+<car-list> 
+<car> 
+ 
+<name>Toyota corrola</name>
+<model>2019</model>
+<car-papers>All document clear </car-papers>
+<condition>Used Like new 10/10</condition>
+</car>
+<car> 
+ 
+    <name>Gli</name>
+    <model>2019</model>
+    <car-papers>All document clear </car-papers>
+    <condition>Used Like new 10/10</condition>
+    </car>
+    <car> 
+ 
+        <name>Xli</name>
+        <model>2019</model>
+        <car-papers>All document clear </car-papers>
+        <condition>Used Like new 10/10</condition>
+        </car>
+        <car> 
+ 
+            <name>Honda</name>
+            <model>2019</model>
+            <car-papers>All document clear </car-papers>
+            <condition>Used Like new 10/10</condition>
+            </car>
+
+
+</car-list>
 
