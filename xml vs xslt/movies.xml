@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="movies.xsl" type="text/xsl"?>
+
+<collection>
+
+<movie>
+    <title>titanic</title>
+    <year>2012</year>
+    <genre>adventere</genre>
+</movie>
+<movie>
+    <title>normal people</title>
+    <year>2012</year>
+    <genre>funny mood</genre>
+</movie>
+<movie>
+    <title>ache log</title>
+    <year>1995</year>
+    <genre>cool</genre>
+</movie>
+
+</collection>
