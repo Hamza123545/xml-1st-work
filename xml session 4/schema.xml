@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+
+
+<teacher>
+
+<data>
+
+ <firstname>Muhammad</firstname>
+ <lastname>Hamza</lastname>
+ <age>17</age>
+
+</data>
+
+    <data>
+    <firstname>Shariq</firstname>
+    <lastname>Najam</lastname>
+    <age>35</age>
+
+</data>
+
+    <data>
+            <firstname>Asghar</firstname>
+            <lastname>Najam</lastname>
+            <age>35</age> 
+    </data>
+
+
+</teacher>
